@@ -39,8 +39,4 @@
     Modeling:
       - Trains and evaluates a decision tree model.
      -  Trains and evaluates a LightGBM model, including feature importance analysis.
-## Additional Notes
 
-The code includes code for generating various plots, but those plots are not included in this README.
-The code is structured for clarity and reproducibility.
-Consider using a virtual environment to manage dependencies.
